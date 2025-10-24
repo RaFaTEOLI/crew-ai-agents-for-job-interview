@@ -1,0 +1,31 @@
+Here is a list of 20 questions that covers culture and team fit, job position fit, background and ways of working, and growth mindset for the Data Analytics Working Student position at Beat81:
+
+### Culture and Team Fit
+1. How does Beat81 foster a supportive and community-driven work environment?
+2. Can you describe the team rituals and events that help build a strong team culture at Beat81?
+3. How does the company ensure a good work-life balance for its employees, especially in a fast-paced start-up environment?
+4. What qualities do you value most in a team member at Beat81?
+5. How does Beat81 incorporate its fitness and wellness ethos into the workplace culture?
+6. Can you share an example of how the team collaborates across different departments, such as Tech, Product, Marketing, and Operations?
+
+### Job Position Fit
+7. What are the key challenges that the Analytics Team is currently facing, and how can a Working Student contribute to overcoming these challenges?
+8. How does the role of a Working Student in Analytics support Beat81’s growth and innovation strategies?
+9. Can you provide examples of past projects that Working Students have been involved in within the Analytics Team?
+10. What are the expectations for a Working Student's contribution to the creation and maintenance of company dashboards?
+11. How does Beat81 measure the success of analytics solutions provided by the team?
+
+### Background and Ways of Working
+12. What specific skills and experiences are you looking for in a candidate for this role?
+13. How does the team at Beat81 utilize tools like Google Sheets, SQL, and Python in their daily operations?
+14. What is the typical workflow or process for handling data and analytics requests from other teams?
+15. How does Beat81 support the professional development of its Working Students in terms of gaining new skills or industry knowledge?
+16. Can you describe the type of mentorship or guidance a Working Student would receive from more experienced team members?
+
+### Growth Mindset
+17. How does Beat81 encourage continuous learning and growth among its employees, particularly in the Analytics Team?
+18. What opportunities are available for a Working Student to take on more responsibilities or lead projects?
+19. How does the company stay ahead of industry trends in fitness technology and data analytics?
+20. Can you share an example of how a team member at Beat81 demonstrated innovation or took initiative to improve a process or solution?
+
+These questions are designed to help the candidate understand the role, the company culture, and how they can contribute to and grow within Beat81.

@@ -1,0 +1,38 @@
+# Comprehensive Report on Matthias Glöel's Professional Career
+
+## Professional Overview
+- **Name**: Matthias Glöel
+- **Location**: Berlin, Germany and Chile
+
+## Current Position
+- **Role**: Entrepreneur in Residence at Beat81
+- **Focus**: Engaged in innovative projects within the fitness and wellness industry, contributing to Beat81's community-driven and tech-integrated fitness solutions.
+
+## Previous Experience
+- **Senior Cloud Architect at diconium**: 
+  - Provided deep expertise in cloud and data engineering.
+  - Known for resolving complex technical issues and enhancing team productivity.
+  - Actively involved in organizing local meetups and internal tech exchanges to facilitate knowledge sharing.
+
+## Certifications
+- **Udacity Nanodegree in Data Engineering**: Completed in January 2020.
+- **Certified EU-Data Protection Specialist (DSGVO/GDPR)**: Certified by Fraunhofer Academy in December 2019.
+- **AWS Certified Security – Specialty**: Valid from March 2023 to March 2026.
+- **AWS Certified Solutions Architect – Professional and Associate**: Valid until September 2025.
+- **dbt Certified Developer**: Valid until July 2025.
+- **HashiCorp Certified: Terraform Associate**: Valid until February 2024.
+
+## Skills and Expertise
+- **Cloud and Data Engineering**: Extensive experience in cloud architecture and data solutions.
+- **Technical Leadership**: Known for fostering a collaborative team environment and effective project management.
+- **Community Engagement**: Actively participates in professional meetups and knowledge-sharing sessions.
+
+## Notable Achievements
+- Successfully led teams in resolving technical challenges and improving system efficiencies.
+- Recognized for mentoring team members and enhancing team dynamics.
+- Played a pivotal role in community engagement through organizing events and sharing insights.
+
+## Industry Involvement
+- **Fitness and Wellness**: Currently contributing to Beat81's growth and innovation in high-intensity interval training and community-based fitness solutions.
+
+Matthias Glöel's career reflects a strong combination of technical expertise, leadership, and community engagement, making him a valuable asset in the tech and fitness industries.
